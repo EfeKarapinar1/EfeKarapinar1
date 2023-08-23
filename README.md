@@ -24,7 +24,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🎮 In my free time, I practice about developing a game in Unity!
 
-- ✈️ My hobbies are aviation and writing code. 
+- ✈️ My hobbies are aviation and writing code. 👨‍💻
 
 ---
 
