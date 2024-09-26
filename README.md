@@ -20,9 +20,5 @@
 
 I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey <img src="https://media.tenor.com/4rjzFvNwsYwAAAAi/turkey-flag.gif" width="30">.
 
-- 🏛️ I’m still studying for an information technologies at the high school.
-
-- 🎮 In my free time, I practice about developing a game in Unity!
-
 - ✈️ My hobbies are aviation and writing code. 👨‍💻
 
